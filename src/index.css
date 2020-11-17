@@ -11,3 +11,124 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+img {
+  margin: 0.5vh 1vw;
+}
+
+p {
+  margin: 0 20vw 1.33em;
+  text-align: justify;
+  -moz-text-align-last: center;
+  text-align-last: center;
+}
+
+ol {
+  margin: 0;
+  padding: 0;
+}
+
+.center {
+  text-align:center;
+  list-style-position:inside;
+}
+
+a {
+  color:white;
+  text-decoration:none;
+}
+
+.center.title {
+  color:black;
+}
+
+.nav1 {
+  background-color:red;
+  border:2px solid black;
+}
+.nav2 {
+  background-color:black;
+}
+.nav3 {
+  background-color:red;
+  border:2px solid black;
+}
+
+.cardContainer {
+  padding: 10vh 0;
+  border-top:2px solid black;
+  text-align:center;
+  background-image: url('./img/texture-green-structure-background.jpg')
+  /* -webkit-animation-name: switchTo;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-duration: 6s;
+  animation-name: switchTo;
+  animation-iteration-count: infinite;
+  animation-duration: 6s; */
+}
+
+#card1 {
+  animation: fadeToBack 1.5s linear 3s 1, fadeToNext 1.5s linear 4.5s 1;
+}
+#card2 {
+  animation: fadeToBack 1.5s linear 3s 1, fadeToNext 1.5s linear 4.5s 1;
+}
+#card3 {
+  animation: fadeToBack 1.5s linear 3s 1, fadeToNext 1.5s linear 4.5s 1;
+}
+#card4 {
+  animation: fadeToBack 1.5s linear 3s 1, fadeToNext 1.5s linear 4.5s 1;
+}
+#card5 {
+  animation: fadeToBack 1.5s linear 3s 1, fadeToNext 1.5s linear 4.5s 1;
+}
+
+/* fadeToBack Keyframes*/
+@keyframes fadeToBack {
+  0% { width: 200px; height: 300px }
+  50% { width: 0; height: 300px;}
+  100% { width: 200px; height: 300px; content:url("./img/backOfCard.png")}
+}
+@-moz-keyframes fadeToBack {
+  0% { width: 200px; height: 300px }
+  50% { width: 0; height: 300px;}
+  100% { width: 200px; height: 300px; content:url("./img/backOfCard.png")}
+}
+@-webkit-keyframes fadeToBack {
+  0% { width: 200px; height: 300px }
+  50% { width: 0; height: 300px;}
+  100% { width: 200px; height: 300px; content:url("./img/backOfCard.png")}
+}
+@-o-keyframes fadeToBack {
+  0% { width: 200px; height: 300px }
+  50% { width: 0; height: 300px;}
+  100% { width: 200px; height: 300px; content:url("./img/backOfCard.png")}
+}
+
+
+/* fadeToNext Keyframes*/
+@keyframes fadeToNext {
+  0% { width: 200px; height: 300px; content:url("./img/backOfCard.png")}
+  30% { width: 200px; height: 300px; content:url("./img/backOfCard.png")}
+  75% { width: 0; height: 300px; }
+  100% { width: 200px; height: 300px; }
+}
+@-moz-keyframes fadeToNext {
+  0% { width: 200px; height: 300px; content:url("./img/backOfCard.png")}
+  30% { width: 200px; height: 300px; content:url("./img/backOfCard.png")}
+  75% { width: 0; height: 300px; }
+  100% { width: 200px; height: 300px; }
+}
+@-webkit-keyframes fadeToNext {
+  0% { width: 200px; height: 300px; content:url("./img/backOfCard.png")}
+  30% { width: 200px; height: 300px; content:url("./img/backOfCard.png")}
+  75% { width: 0; height: 300px; }
+  100% { width: 200px; height: 300px; }
+}
+@-o-keyframes fadeToNext{
+  0% { width: 200px; height: 300px; content:url("./img/backOfCard.png")}
+  30% { width: 200px; height: 300px; content:url("./img/backOfCard.png")}
+  75% { width: 0; height: 300px; }
+  100% { width: 200px; height: 300px; }
+}
+

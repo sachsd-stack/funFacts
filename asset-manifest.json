@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/git@github.com:sachsd-stack/funFacts.git/static/css/main.8a5586fc.chunk.css",
+    "main.css": "/git@github.com:sachsd-stack/funFacts.git/static/css/main.516d4403.chunk.css",
     "main.js": "/git@github.com:sachsd-stack/funFacts.git/static/js/main.7b8c3935.chunk.js",
     "main.js.map": "/git@github.com:sachsd-stack/funFacts.git/static/js/main.7b8c3935.chunk.js.map",
     "runtime-main.js": "/git@github.com:sachsd-stack/funFacts.git/static/js/runtime-main.20fd7b1b.js",
@@ -10,7 +10,7 @@
     "static/js/3.28f42a6f.chunk.js": "/git@github.com:sachsd-stack/funFacts.git/static/js/3.28f42a6f.chunk.js",
     "static/js/3.28f42a6f.chunk.js.map": "/git@github.com:sachsd-stack/funFacts.git/static/js/3.28f42a6f.chunk.js.map",
     "index.html": "/git@github.com:sachsd-stack/funFacts.git/index.html",
-    "static/css/main.8a5586fc.chunk.css.map": "/git@github.com:sachsd-stack/funFacts.git/static/css/main.8a5586fc.chunk.css.map",
+    "static/css/main.516d4403.chunk.css.map": "/git@github.com:sachsd-stack/funFacts.git/static/css/main.516d4403.chunk.css.map",
     "static/js/2.4dbdbc8d.chunk.js.LICENSE.txt": "/git@github.com:sachsd-stack/funFacts.git/static/js/2.4dbdbc8d.chunk.js.LICENSE.txt",
     "static/media/10oS.0f14f5ad.png": "/git@github.com:sachsd-stack/funFacts.git/static/media/10oS.0f14f5ad.png",
     "static/media/8oS.ce94d4c6.png": "/git@github.com:sachsd-stack/funFacts.git/static/media/8oS.ce94d4c6.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.20fd7b1b.js",
     "static/js/2.4dbdbc8d.chunk.js",
-    "static/css/main.8a5586fc.chunk.css",
+    "static/css/main.516d4403.chunk.css",
     "static/js/main.7b8c3935.chunk.js"
   ]
 }

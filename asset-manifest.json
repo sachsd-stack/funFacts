@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/git@github.com:sachsd-stack/funFacts.git/static/css/main.8a5586fc.chunk.css",
+    "main.js": "/git@github.com:sachsd-stack/funFacts.git/static/js/main.7b8c3935.chunk.js",
+    "main.js.map": "/git@github.com:sachsd-stack/funFacts.git/static/js/main.7b8c3935.chunk.js.map",
+    "runtime-main.js": "/git@github.com:sachsd-stack/funFacts.git/static/js/runtime-main.20fd7b1b.js",
+    "runtime-main.js.map": "/git@github.com:sachsd-stack/funFacts.git/static/js/runtime-main.20fd7b1b.js.map",
+    "static/js/2.4dbdbc8d.chunk.js": "/git@github.com:sachsd-stack/funFacts.git/static/js/2.4dbdbc8d.chunk.js",
+    "static/js/2.4dbdbc8d.chunk.js.map": "/git@github.com:sachsd-stack/funFacts.git/static/js/2.4dbdbc8d.chunk.js.map",
+    "static/js/3.28f42a6f.chunk.js": "/git@github.com:sachsd-stack/funFacts.git/static/js/3.28f42a6f.chunk.js",
+    "static/js/3.28f42a6f.chunk.js.map": "/git@github.com:sachsd-stack/funFacts.git/static/js/3.28f42a6f.chunk.js.map",
+    "index.html": "/git@github.com:sachsd-stack/funFacts.git/index.html",
+    "static/css/main.8a5586fc.chunk.css.map": "/git@github.com:sachsd-stack/funFacts.git/static/css/main.8a5586fc.chunk.css.map",
+    "static/js/2.4dbdbc8d.chunk.js.LICENSE.txt": "/git@github.com:sachsd-stack/funFacts.git/static/js/2.4dbdbc8d.chunk.js.LICENSE.txt",
+    "static/media/10oS.0f14f5ad.png": "/git@github.com:sachsd-stack/funFacts.git/static/media/10oS.0f14f5ad.png",
+    "static/media/8oS.ce94d4c6.png": "/git@github.com:sachsd-stack/funFacts.git/static/media/8oS.ce94d4c6.png",
+    "static/media/JoH.6d0f45c2.png": "/git@github.com:sachsd-stack/funFacts.git/static/media/JoH.6d0f45c2.png",
+    "static/media/JoS.e7c66ace.png": "/git@github.com:sachsd-stack/funFacts.git/static/media/JoS.e7c66ace.png",
+    "static/media/KoH.b3075697.png": "/git@github.com:sachsd-stack/funFacts.git/static/media/KoH.b3075697.png",
+    "static/media/KoS.7384bcd3.png": "/git@github.com:sachsd-stack/funFacts.git/static/media/KoS.7384bcd3.png",
+    "static/media/QoD.b4de21cf.png": "/git@github.com:sachsd-stack/funFacts.git/static/media/QoD.b4de21cf.png",
+    "static/media/QoS.c24e83e4.png": "/git@github.com:sachsd-stack/funFacts.git/static/media/QoS.c24e83e4.png",
+    "static/media/index.css": "/git@github.com:sachsd-stack/funFacts.git/static/media/texture-green-structure-background.c8ebba11.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20fd7b1b.js",
+    "static/js/2.4dbdbc8d.chunk.js",
+    "static/css/main.8a5586fc.chunk.css",
+    "static/js/main.7b8c3935.chunk.js"
+  ]
+}

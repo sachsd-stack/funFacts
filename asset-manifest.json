@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/funFacts/static/css/main.f66253b6.chunk.css",
-    "main.js": "/funFacts/static/js/main.c8edaad2.chunk.js",
-    "main.js.map": "/funFacts/static/js/main.c8edaad2.chunk.js.map",
-    "runtime-main.js": "/funFacts/static/js/runtime-main.7e66d2d9.js",
-    "runtime-main.js.map": "/funFacts/static/js/runtime-main.7e66d2d9.js.map",
-    "static/js/2.4dbdbc8d.chunk.js": "/funFacts/static/js/2.4dbdbc8d.chunk.js",
-    "static/js/2.4dbdbc8d.chunk.js.map": "/funFacts/static/js/2.4dbdbc8d.chunk.js.map",
-    "static/js/3.28f42a6f.chunk.js": "/funFacts/static/js/3.28f42a6f.chunk.js",
-    "static/js/3.28f42a6f.chunk.js.map": "/funFacts/static/js/3.28f42a6f.chunk.js.map",
+    "main.css": "/funFacts/static/css/main.b1a65769.chunk.css",
+    "main.js": "/funFacts/static/js/main.c55a15e3.chunk.js",
+    "main.js.map": "/funFacts/static/js/main.c55a15e3.chunk.js.map",
+    "runtime-main.js": "/funFacts/static/js/runtime-main.348e37bc.js",
+    "runtime-main.js.map": "/funFacts/static/js/runtime-main.348e37bc.js.map",
+    "static/js/2.8e4e5a1a.chunk.js": "/funFacts/static/js/2.8e4e5a1a.chunk.js",
+    "static/js/2.8e4e5a1a.chunk.js.map": "/funFacts/static/js/2.8e4e5a1a.chunk.js.map",
+    "static/js/3.08bfee63.chunk.js": "/funFacts/static/js/3.08bfee63.chunk.js",
+    "static/js/3.08bfee63.chunk.js.map": "/funFacts/static/js/3.08bfee63.chunk.js.map",
     "index.html": "/funFacts/index.html",
-    "static/css/main.f66253b6.chunk.css.map": "/funFacts/static/css/main.f66253b6.chunk.css.map",
-    "static/js/2.4dbdbc8d.chunk.js.LICENSE.txt": "/funFacts/static/js/2.4dbdbc8d.chunk.js.LICENSE.txt",
+    "static/css/main.b1a65769.chunk.css.map": "/funFacts/static/css/main.b1a65769.chunk.css.map",
+    "static/js/2.8e4e5a1a.chunk.js.LICENSE.txt": "/funFacts/static/js/2.8e4e5a1a.chunk.js.LICENSE.txt",
     "static/media/10oS.0f14f5ad.png": "/funFacts/static/media/10oS.0f14f5ad.png",
     "static/media/8oS.ce94d4c6.png": "/funFacts/static/media/8oS.ce94d4c6.png",
     "static/media/JoH.6d0f45c2.png": "/funFacts/static/media/JoH.6d0f45c2.png",
@@ -23,9 +23,9 @@
     "static/media/index.css": "/funFacts/static/media/texture-green-structure-background.c8ebba11.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7e66d2d9.js",
-    "static/js/2.4dbdbc8d.chunk.js",
-    "static/css/main.f66253b6.chunk.css",
-    "static/js/main.c8edaad2.chunk.js"
+    "static/js/runtime-main.348e37bc.js",
+    "static/js/2.8e4e5a1a.chunk.js",
+    "static/css/main.b1a65769.chunk.css",
+    "static/js/main.c55a15e3.chunk.js"
   ]
 }

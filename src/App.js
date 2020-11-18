@@ -5,6 +5,8 @@ import FunFactOne from './components/FunFactOne'
 import FunFactTwo from './components/FunFactTwo'
 import FunFactThree from './components/FunFactThree'
 import CardDisplay from './components/CardDisplay'
+var ReactCSSTransitionGroup = require('react-addons-css-transition-group');
+
 
 class App extends Component {
   render() {

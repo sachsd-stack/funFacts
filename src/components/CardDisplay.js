@@ -73,7 +73,7 @@ class CardDisplay extends Component {
             this.setIndexes(this.getNextIndex(this.state.index));
           }, 500); // same delay as in the css transition here
     
-        }, 3375); // next slide delay
+        }, 4000); // next slide delay
       }
 
     render() {
